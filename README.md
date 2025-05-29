@@ -59,3 +59,4 @@ You can input your new questions and answers here.
 ## 🛠️ The problems that you might encounter and difficulties I fixed
 - The only problem I found so far since uploading this app to my repository is when you press the `exit button` it opens the app again, although maybe it was a `glitch in emulator.`
 - But the difficulties I faced was with the `If` statements working properly with the `updateQuestion()`:![image](https://github.com/user-attachments/assets/21456fa7-693a-4ced-af5f-23b69949b7d7)
+But I finally manageded to understand the concept of `updateQuestion()` function which automatically update the code for you during the run time of the project.
