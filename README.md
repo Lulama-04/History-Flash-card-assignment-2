@@ -4,7 +4,7 @@ A simple True/False quiz app built in Kotlin using Android Studio. Tracks the us
 
 ---
 
-## 🚀 Features
+##  Features
 
 - ✅ True/False buttons for user input  
 - ✅ "Next" button to move to the next question  
@@ -27,7 +27,6 @@ Welcome Screen
 | ![Screenshot 2025-05-26 230826](https://github.com/user-attachments/assets/c63a2d93-d0de-456c-8805-75fa2c18fa0a)
  |
 
-> 📸 *Add actual screenshots inside a `screenshots/` folder in your project directory.*
 
 ---
 
@@ -36,12 +35,16 @@ Welcome Screen
 - Kotlin
 - Android SDK
 - Android Studio
-- View Components (`TextView`, `Button`)
+- View Components (`TextView`, `Button`,`BackroundImage`)
 
 ---
 
-## 📂 Setup Instructions
+## 🎯 Purpose and objective of this project
+- Backround
+FLashcards are apopular way of studying and testing your knowledge. That is why this app will prompt the users to answer all the history questions to test their history knowledge.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/history-flash-card-app.git
+-Objective 
+I was tasked with to develope a native Android app using kotlin. This will help the users study with flashcards.This app will have presentable `features`, `looped through flashcards`and `provide a score with comments depending on your score`.
+
+
+## 📂 Setup Instructi
