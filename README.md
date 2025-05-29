@@ -39,11 +39,11 @@ Welcome Screen
 
 ---
 
-## 🎯 Purpose and objective of this project
+## 🎯  Report and objective of this project
 - Backround
 FLashcards are apopular way of studying and testing your knowledge. That is why this app will prompt the users to answer all the history questions to test their history knowledge.
 
--Objective 
+- Objective 
 I was tasked with to develope a native Android app using kotlin. This will help the users study with flashcards.This app will have presentable `features`, `looped through flashcards`and `provide a score with comments depending on your score`.
 
 
