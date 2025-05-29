@@ -39,12 +39,17 @@ Welcome Screen
 
 ---
 
-## 🎯  Report and objective of this project
+## 🎯  Objective of this project
 - Backround
 FLashcards are apopular way of studying and testing your knowledge. That is why this app will prompt the users to answer all the history questions to test their history knowledge.
 
 - Objective 
 I was tasked with to develope a native Android app using kotlin. This will help the users study with flashcards.This app will have presentable `features`, `looped through flashcards`and `provide a score with comments depending on your score`.
 
+- Report
 
-## 📂 Setup Instructi
+## 📝 How to change the questions of the flashcards using android studio
+If you haven't already downloaded the repository here is guide on `how to install/clone a github Repo`:https://www.youtube.com/watch?v=JSwRqOZo2Y8
+
+Now that you have cloned the app you can open it on a tab in android studio and navigate to main_Activity2:
+![image](https://github.com/user-attachments/assets/2e8640d9-0605-49a0-90de-fc52856de882)
